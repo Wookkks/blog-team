@@ -1,4 +1,5 @@
-# blog-team
+# git practice repository
+## blog-team
 
 ### 기능정리
 - 환경설정
